@@ -29,3 +29,4 @@ console.log(typeof(str));
 let stringNumber = String(str);
 console.log(stringNumber);
 console.log(typeof(stringNumber));
+
